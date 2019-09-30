@@ -1,0 +1,1 @@
+The calibration factor is multiplied to the obtained ADC result and it is displayed along with the ADC value..

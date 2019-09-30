@@ -1,0 +1,1 @@
+Using the multimeter readings, the calibration factor is calculated and used in the next step

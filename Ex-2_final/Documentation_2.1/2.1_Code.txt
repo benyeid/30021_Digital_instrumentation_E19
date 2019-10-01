@@ -1,0 +1,17 @@
+#include "stm32f30x_conf.h"
+#include <stdio.h>
+#include <string.h>
+#include "lcd.h"
+#include "30021_io.h"  //functions clashing with 'lcd.h'are commented
+
+int main(void)
+{
+        init_spi_lcd();                               ///to setup SPI and configure the LCD
+        uint8_t fbuffer[512];
+        memset(fbuffer,0x49,512);                     ///To load the local buffer with desired data in ASCII
+        lcd_push_buffer(fbuffer);                     ///To push the local buffer value to frame buffer of LCD
+
+    while(1)
+        {
+        }
+}

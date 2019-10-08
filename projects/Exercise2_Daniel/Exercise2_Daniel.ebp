@@ -92,6 +92,7 @@
 		<Unit filename="inc\30021_io.h" />
 		<Unit filename="inc\charset.h" />
 		<Unit filename="inc\flash.h" />
+		<Unit filename="inc\group6_functions.h" />
 		<Unit filename="inc\lcd.h" />
 		<Unit filename="inc\stm32f30x.h" />
 		<Unit filename="inc\stm32f30x_conf.h" />
@@ -189,6 +190,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src\flash.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src\group6_functions.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src\lcd.c">

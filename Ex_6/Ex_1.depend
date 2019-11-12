@@ -1,0 +1,957 @@
+# depslib dependency file v1.0
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_adc.c
+	"stm32f30x_adc.h"
+	"stm32f30x_rcc.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_adc.h
+	"stm32f30x.h"
+
+1567504815 c:\users\lokesh.000\documents\di_exercises\ex_1\inc\stm32f30x.h
+	"core_cm4.h"
+	"system_stm32f30x.h"
+	<stdint.h>
+	"stm32f30x_conf.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\cmsis\core_cm4.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+	<core_cm4_simd.h>
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\cmsis\core_cm4_simd.h
+	<cmsis_iar.h>
+
+1567504815 c:\users\lokesh.000\documents\di_exercises\ex_1\inc\system_stm32f30x.h
+
+1567504815 c:\users\lokesh.000\documents\di_exercises\ex_1\inc\stm32f30x_conf.h
+	"stm32f30x_adc.h"
+	"stm32f30x_can.h"
+	"stm32f30x_crc.h"
+	"stm32f30x_comp.h"
+	"stm32f30x_dac.h"
+	"stm32f30x_dbgmcu.h"
+	"stm32f30x_dma.h"
+	"stm32f30x_exti.h"
+	"stm32f30x_flash.h"
+	"stm32f30x_gpio.h"
+	"stm32f30x_syscfg.h"
+	"stm32f30x_i2c.h"
+	"stm32f30x_iwdg.h"
+	"stm32f30x_opamp.h"
+	"stm32f30x_pwr.h"
+	"stm32f30x_rcc.h"
+	"stm32f30x_rtc.h"
+	"stm32f30x_spi.h"
+	"stm32f30x_tim.h"
+	"stm32f30x_usart.h"
+	"stm32f30x_wwdg.h"
+	"stm32f30x_misc.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_can.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_crc.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_comp.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_dac.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_dbgmcu.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_dma.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_exti.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_flash.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_gpio.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_syscfg.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_i2c.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_iwdg.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_opamp.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_pwr.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_rcc.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_rtc.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_spi.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_tim.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_usart.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_wwdg.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_1\spl\inc\stm32f30x_misc.h
+	"stm32f30x.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_can.c
+	"stm32f30x_can.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_comp.c
+	"stm32f30x_comp.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_crc.c
+	"stm32f30x_crc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_dac.c
+	"stm32f30x_dac.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_dbgmcu.c
+	"stm32f30x_dbgmcu.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_dma.c
+	"stm32f30x_dma.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_exti.c
+	"stm32f30x_exti.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_flash.c
+	"stm32f30x_flash.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_gpio.c
+	"stm32f30x_gpio.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_i2c.c
+	"stm32f30x_i2c.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_iwdg.c
+	"stm32f30x_iwdg.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_misc.c
+	"stm32f30x_misc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_opamp.c
+	"stm32f30x_opamp.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_pwr.c
+	"stm32f30x_pwr.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_rcc.c
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_rtc.c
+	"stm32f30x_rtc.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_spi.c
+	"stm32f30x_spi.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_syscfg.c
+	"stm32f30x_syscfg.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_tim.c
+	"stm32f30x_tim.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_usart.c
+	"stm32f30x_usart.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_1\spl\src\stm32f30x_wwdg.c
+	"stm32f30x_wwdg.h"
+	"stm32f30x_rcc.h"
+
+1567496126 source:c:\users\lokesh.000\documents\di_exercises\ex_1\src\30021_io.c
+	"30021_io.h"
+
+1567496126 c:\users\lokesh.000\documents\di_exercises\ex_1\inc\30021_io.h
+	"stm32f30x_conf.h"
+	<stdio.h>
+
+1567504815 source:c:\users\lokesh.000\documents\di_exercises\ex_1\src\startup_stm32f30x.s
+
+1567504815 source:c:\users\lokesh.000\documents\di_exercises\ex_1\src\system_stm32f30x.c
+	"stm32f30x.h"
+
+1568373873 source:c:\users\lokesh.000\documents\di_exercises\ex_1\src\main.c
+	"stm32f30x_conf.h"
+	"30021_io.h"
+
+1569858088 source:c:\users\lokesh.000\documents\di_exercises\ex_2\src\main.c
+	"stm32f30x_conf.h"
+	<stdio.h>
+	<string.h>
+	"flash.h"
+	"lcd.h"
+	"30021_io.h"
+
+1567504815 c:\users\lokesh.000\documents\di_exercises\ex_2\inc\stm32f30x_conf.h
+	"stm32f30x_adc.h"
+	"stm32f30x_can.h"
+	"stm32f30x_crc.h"
+	"stm32f30x_comp.h"
+	"stm32f30x_dac.h"
+	"stm32f30x_dbgmcu.h"
+	"stm32f30x_dma.h"
+	"stm32f30x_exti.h"
+	"stm32f30x_flash.h"
+	"stm32f30x_gpio.h"
+	"stm32f30x_syscfg.h"
+	"stm32f30x_i2c.h"
+	"stm32f30x_iwdg.h"
+	"stm32f30x_opamp.h"
+	"stm32f30x_pwr.h"
+	"stm32f30x_rcc.h"
+	"stm32f30x_rtc.h"
+	"stm32f30x_spi.h"
+	"stm32f30x_tim.h"
+	"stm32f30x_usart.h"
+	"stm32f30x_wwdg.h"
+	"stm32f30x_misc.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_adc.h
+	"stm32f30x.h"
+
+1567504815 c:\users\lokesh.000\documents\di_exercises\ex_2\inc\stm32f30x.h
+	"core_cm4.h"
+	"system_stm32f30x.h"
+	<stdint.h>
+	"stm32f30x_conf.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\cmsis\core_cm4.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+	<core_cm4_simd.h>
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\cmsis\core_cm4_simd.h
+	<cmsis_iar.h>
+
+1567504815 c:\users\lokesh.000\documents\di_exercises\ex_2\inc\system_stm32f30x.h
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_can.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_crc.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_comp.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_dac.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_dbgmcu.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_dma.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_exti.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_flash.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_gpio.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_syscfg.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_i2c.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_iwdg.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_opamp.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_pwr.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_rcc.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_rtc.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_spi.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_tim.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_usart.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_wwdg.h
+	"stm32f30x.h"
+
+1567504816 c:\users\lokesh.000\documents\di_exercises\ex_2\spl\inc\stm32f30x_misc.h
+	"stm32f30x.h"
+
+1568018568 c:\users\lokesh.000\documents\di_exercises\ex_2\inc\flash.h
+	"stm32f30x_conf.h"
+
+1569693664 c:\users\lokesh.000\documents\di_exercises\ex_2\inc\lcd.h
+	"stm32f30x_conf.h"
+	<stdio.h>
+	<string.h>
+
+1569692268 c:\users\lokesh.000\documents\di_exercises\ex_2\inc\charset.h
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_adc.c
+	"stm32f30x_adc.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_can.c
+	"stm32f30x_can.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_comp.c
+	"stm32f30x_comp.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_crc.c
+	"stm32f30x_crc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_dac.c
+	"stm32f30x_dac.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_dbgmcu.c
+	"stm32f30x_dbgmcu.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_dma.c
+	"stm32f30x_dma.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_exti.c
+	"stm32f30x_exti.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_flash.c
+	"stm32f30x_flash.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_gpio.c
+	"stm32f30x_gpio.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_i2c.c
+	"stm32f30x_i2c.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_iwdg.c
+	"stm32f30x_iwdg.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_misc.c
+	"stm32f30x_misc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_opamp.c
+	"stm32f30x_opamp.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_pwr.c
+	"stm32f30x_pwr.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_rcc.c
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_rtc.c
+	"stm32f30x_rtc.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_spi.c
+	"stm32f30x_spi.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_syscfg.c
+	"stm32f30x_syscfg.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_tim.c
+	"stm32f30x_tim.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_usart.c
+	"stm32f30x_usart.h"
+	"stm32f30x_rcc.h"
+
+1567504816 source:c:\users\lokesh.000\documents\di_exercises\ex_2\spl\src\stm32f30x_wwdg.c
+	"stm32f30x_wwdg.h"
+	"stm32f30x_rcc.h"
+
+1569692005 source:c:\users\lokesh.000\documents\di_exercises\ex_2\src\30021_io.c
+	"30021_io.h"
+
+1567496126 c:\users\lokesh.000\documents\di_exercises\ex_2\inc\30021_io.h
+	"stm32f30x_conf.h"
+	<stdio.h>
+
+1567504815 source:c:\users\lokesh.000\documents\di_exercises\ex_2\src\startup_stm32f30x.s
+
+1567504815 source:c:\users\lokesh.000\documents\di_exercises\ex_2\src\system_stm32f30x.c
+	"stm32f30x.h"
+
+1568018568 source:c:\users\lokesh.000\documents\di_exercises\ex_2\src\flash.c
+	"flash.h"
+
+1569693445 source:c:\users\lokesh.000\documents\di_exercises\ex_2\src\lcd.c
+	"lcd.h"
+	"charset.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_adc.c
+	"stm32f30x_adc.h"
+	"stm32f30x_rcc.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_adc.h
+	"stm32f30x.h"
+
+1567501215 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\inc\stm32f30x.h
+	"core_cm4.h"
+	"system_stm32f30x.h"
+	<stdint.h>
+	"stm32f30x_conf.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\cmsis\core_cm4.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+	<core_cm4_simd.h>
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\cmsis\core_cm4_simd.h
+	<cmsis_iar.h>
+
+1567501215 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\inc\system_stm32f30x.h
+
+1567501215 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\inc\stm32f30x_conf.h
+	"stm32f30x_adc.h"
+	"stm32f30x_can.h"
+	"stm32f30x_crc.h"
+	"stm32f30x_comp.h"
+	"stm32f30x_dac.h"
+	"stm32f30x_dbgmcu.h"
+	"stm32f30x_dma.h"
+	"stm32f30x_exti.h"
+	"stm32f30x_flash.h"
+	"stm32f30x_gpio.h"
+	"stm32f30x_syscfg.h"
+	"stm32f30x_i2c.h"
+	"stm32f30x_iwdg.h"
+	"stm32f30x_opamp.h"
+	"stm32f30x_pwr.h"
+	"stm32f30x_rcc.h"
+	"stm32f30x_rtc.h"
+	"stm32f30x_spi.h"
+	"stm32f30x_tim.h"
+	"stm32f30x_usart.h"
+	"stm32f30x_wwdg.h"
+	"stm32f30x_misc.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_can.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_crc.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_comp.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_dac.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_dbgmcu.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_dma.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_exti.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_flash.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_gpio.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_syscfg.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_i2c.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_iwdg.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_opamp.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_pwr.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_rcc.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_rtc.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_spi.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_tim.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_usart.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_wwdg.h
+	"stm32f30x.h"
+
+1567501216 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\inc\stm32f30x_misc.h
+	"stm32f30x.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_can.c
+	"stm32f30x_can.h"
+	"stm32f30x_rcc.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_comp.c
+	"stm32f30x_comp.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_crc.c
+	"stm32f30x_crc.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_dac.c
+	"stm32f30x_dac.h"
+	"stm32f30x_rcc.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_dbgmcu.c
+	"stm32f30x_dbgmcu.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_dma.c
+	"stm32f30x_dma.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_exti.c
+	"stm32f30x_exti.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_flash.c
+	"stm32f30x_flash.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_gpio.c
+	"stm32f30x_gpio.h"
+	"stm32f30x_rcc.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_i2c.c
+	"stm32f30x_i2c.h"
+	"stm32f30x_rcc.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_iwdg.c
+	"stm32f30x_iwdg.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_misc.c
+	"stm32f30x_misc.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_opamp.c
+	"stm32f30x_opamp.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_pwr.c
+	"stm32f30x_pwr.h"
+	"stm32f30x_rcc.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_rcc.c
+	"stm32f30x_rcc.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_rtc.c
+	"stm32f30x_rtc.h"
+	"stm32f30x_rcc.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_spi.c
+	"stm32f30x_spi.h"
+	"stm32f30x_rcc.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_syscfg.c
+	"stm32f30x_syscfg.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_tim.c
+	"stm32f30x_tim.h"
+	"stm32f30x_rcc.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_usart.c
+	"stm32f30x_usart.h"
+	"stm32f30x_rcc.h"
+
+1567501216 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\spl\src\stm32f30x_wwdg.c
+	"stm32f30x_wwdg.h"
+	"stm32f30x_rcc.h"
+
+1569688405 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\src\30021_io.c
+	"30021_io.h"
+
+1567492526 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\inc\30021_io.h
+	"stm32f30x_conf.h"
+	<stdio.h>
+
+1568014968 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\src\flash.c
+	"flash.h"
+
+1568014968 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\inc\flash.h
+	"stm32f30x_conf.h"
+
+1569689845 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\src\lcd.c
+	"lcd.h"
+	"charset.h"
+
+1569690064 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\inc\lcd.h
+	"stm32f30x_conf.h"
+	<stdio.h>
+	<string.h>
+
+1569688668 c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\inc\charset.h
+
+1567501215 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\src\startup_stm32f30x.s
+
+1567501215 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\src\system_stm32f30x.c
+	"stm32f30x.h"
+
+1572855356 source:c:\users\lokesh.000\documents\di_exercises\ex_5_gyro\src\main.c
+	"stm32f30x_conf.h"
+	"30021_io.h"
+	<stdio.h>
+	<string.h>
+	"flash.h"
+	"lcd.h"
+	<time.h>
+	<inttypes.h>
+
+1572835928 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_adc.c
+	"stm32f30x_adc.h"
+	"stm32f30x_rcc.h"
+
+1572835936 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_adc.h
+	"stm32f30x.h"
+
+1572835928 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\stm32f30x.h
+	"core_cm4.h"
+	"system_stm32f30x.h"
+	<stdint.h>
+	"stm32f30x_conf.h"
+
+1572835928 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\cmsis\core_cm4.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+	<core_cm4_simd.h>
+
+1572835928 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+
+1572835928 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+
+1572835928 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\cmsis\core_cm4_simd.h
+	<cmsis_iar.h>
+
+1572835928 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\system_stm32f30x.h
+
+1572835928 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\stm32f30x_conf.h
+	"stm32f30x_adc.h"
+	"stm32f30x_can.h"
+	"stm32f30x_crc.h"
+	"stm32f30x_comp.h"
+	"stm32f30x_dac.h"
+	"stm32f30x_dbgmcu.h"
+	"stm32f30x_dma.h"
+	"stm32f30x_exti.h"
+	"stm32f30x_flash.h"
+	"stm32f30x_gpio.h"
+	"stm32f30x_syscfg.h"
+	"stm32f30x_i2c.h"
+	"stm32f30x_iwdg.h"
+	"stm32f30x_opamp.h"
+	"stm32f30x_pwr.h"
+	"stm32f30x_rcc.h"
+	"stm32f30x_rtc.h"
+	"stm32f30x_spi.h"
+	"stm32f30x_tim.h"
+	"stm32f30x_usart.h"
+	"stm32f30x_wwdg.h"
+	"stm32f30x_misc.h"
+
+1572835936 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_can.h
+	"stm32f30x.h"
+
+1572835938 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_crc.h
+	"stm32f30x.h"
+
+1572835938 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_comp.h
+	"stm32f30x.h"
+
+1572835936 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_dac.h
+	"stm32f30x.h"
+
+1572835938 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_dbgmcu.h
+	"stm32f30x.h"
+
+1572835938 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_dma.h
+	"stm32f30x.h"
+
+1572835938 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_exti.h
+	"stm32f30x.h"
+
+1572835936 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_flash.h
+	"stm32f30x.h"
+
+1572835936 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_gpio.h
+	"stm32f30x.h"
+
+1572835940 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_syscfg.h
+	"stm32f30x.h"
+
+1572835936 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_i2c.h
+	"stm32f30x.h"
+
+1572835938 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_iwdg.h
+	"stm32f30x.h"
+
+1572835940 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_opamp.h
+	"stm32f30x.h"
+
+1572835940 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_pwr.h
+	"stm32f30x.h"
+
+1572835940 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_rcc.h
+	"stm32f30x.h"
+
+1572835940 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_rtc.h
+	"stm32f30x.h"
+
+1572835940 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_spi.h
+	"stm32f30x.h"
+
+1572835942 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_tim.h
+	"stm32f30x.h"
+
+1572835942 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_usart.h
+	"stm32f30x.h"
+
+1572835942 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_wwdg.h
+	"stm32f30x.h"
+
+1572835938 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\inc\stm32f30x_misc.h
+	"stm32f30x.h"
+
+1572835928 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_can.c
+	"stm32f30x_can.h"
+	"stm32f30x_rcc.h"
+
+1572835930 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_comp.c
+	"stm32f30x_comp.h"
+
+1572835930 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_crc.c
+	"stm32f30x_crc.h"
+
+1572835930 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_dac.c
+	"stm32f30x_dac.h"
+	"stm32f30x_rcc.h"
+
+1572835930 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_dbgmcu.c
+	"stm32f30x_dbgmcu.h"
+
+1572835930 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_dma.c
+	"stm32f30x_dma.h"
+
+1572835930 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_exti.c
+	"stm32f30x_exti.h"
+
+1572835930 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_flash.c
+	"stm32f30x_flash.h"
+
+1572835932 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_gpio.c
+	"stm32f30x_gpio.h"
+	"stm32f30x_rcc.h"
+
+1572835932 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_i2c.c
+	"stm32f30x_i2c.h"
+	"stm32f30x_rcc.h"
+
+1572835934 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_iwdg.c
+	"stm32f30x_iwdg.h"
+
+1572835932 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_misc.c
+	"stm32f30x_misc.h"
+
+1572835932 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_opamp.c
+	"stm32f30x_opamp.h"
+
+1572835932 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_pwr.c
+	"stm32f30x_pwr.h"
+	"stm32f30x_rcc.h"
+
+1572835934 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_rcc.c
+	"stm32f30x_rcc.h"
+
+1572835934 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_rtc.c
+	"stm32f30x_rtc.h"
+	"stm32f30x_rcc.h"
+
+1572835934 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_spi.c
+	"stm32f30x_spi.h"
+	"stm32f30x_rcc.h"
+
+1572835934 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_syscfg.c
+	"stm32f30x_syscfg.h"
+
+1572835934 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_tim.c
+	"stm32f30x_tim.h"
+	"stm32f30x_rcc.h"
+
+1572835936 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_usart.c
+	"stm32f30x_usart.h"
+	"stm32f30x_rcc.h"
+
+1572835936 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\spl\src\stm32f30x_wwdg.c
+	"stm32f30x_wwdg.h"
+	"stm32f30x_rcc.h"
+
+1572835924 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\30021_io.c
+	"30021_io.h"
+
+1572835926 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\30021_io.h
+	"stm32f30x_conf.h"
+	<stdio.h>
+
+1572835926 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\flash.c
+	"flash.h"
+
+1572835926 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\flash.h
+	"stm32f30x_conf.h"
+
+1572835926 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\lcd.c
+	"lcd.h"
+	"charset.h"
+
+1572835926 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\lcd.h
+	"stm32f30x_conf.h"
+	<stdio.h>
+	<string.h>
+
+1572835926 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\charset.h
+
+1572835926 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\startup_stm32f30x.s
+
+1572835926 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\system_stm32f30x.c
+	"stm32f30x.h"
+
+1572970186 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\gpio.c
+	"stm32f30x_conf.h"
+	"gpio.h"
+
+1572970186 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\gpio.h
+	"stm32f30x_conf.h"
+
+1572970186 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\spi.c
+	"spi.h"
+
+1572970186 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\spi.h
+	"stm32f30x_conf.h"
+
+1573568192 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\main.c
+	"stm32f30x_conf.h"
+	"30021_io.h"
+	"gyro.h"
+	"accelerometer.h"
+	"magnetometer.h"
+	"spi.h"
+	<stdio.h>
+	"stm32f30x_conf.h"
+	"30021_io.h"
+	<stdio.h>
+	<string.h>
+	"flash.h"
+	"lcd.h"
+	<time.h>
+	<inttypes.h>
+
+1573568560 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\registers.h
+	"stm32f30x_conf.h"
+	"gpio.h"
+
+1573568594 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\accelerometer.c
+	"accelerometer.h"
+	"spi.h"
+
+1573568259 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\accelerometer.h
+	"registers.h"
+	<inttypes.h>
+
+1573568800 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\magnetometer.c
+	"magnetometer.h"
+	"spi.h"
+	"registers.h"
+
+1573567933 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\magnetometer.h
+	"registers.h"
+	<inttypes.h>
+
+1572970186 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\accel.c
+	"accel.h"
+	"spi.h"
+
+1572970186 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\accel.h
+	"stm32f30x_conf.h"
+	"gpio.h"
+
+1572970186 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\mag.c
+	"mag.h"
+	"spi.h"
+
+1572970186 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\mag.h
+	"stm32f30x_conf.h"
+	"gpio.h"
+
+1573565741 q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\inc\gyro.h
+	"gpio.h"
+	"registers.h"
+
+1572970186 source:q:\doksi\egyetem\msc\dtu\1_semester\digital_instrumantation\ex-6\ex_6_for_daniel_to_edit\src\gyro.c
+	"gyro.h"
+	"spi.h"
+
